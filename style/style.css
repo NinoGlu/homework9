@@ -10,16 +10,16 @@ body{
 .col{
 	margin: 100px;
 	display: flex;
-	flex-wrap: nowrap;
 	justify-content: space-between;
 	align-items: flex-end;
 }
 h1{
 	color: white;
 	font-size: 50px;
+	text-decoration: none;
 }
 .content-img{
-	margin-right: -900px;
+	padding-left: 870px;
 }
 .box{
 	background-color: white;
